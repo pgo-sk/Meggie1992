@@ -1,5 +1,5 @@
 # Meggie1992
-ZX Spectrum graphic graphics utility
+ZX Spectrum graphics utility
 
 Meggie v. 1.0 by Pego & FAY-FE 28 Jan 1992
 ==========================================
