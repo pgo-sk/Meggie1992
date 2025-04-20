@@ -26,8 +26,8 @@ R - display the X/Y width of viewing window
 L - loads next tape data block
 K - saves the current wieving window
 
-Q/s & O/P - make viewing window bigger/smaller
--this enables you to see the graphic in correct format, for example sprites 6x2 characters (48x24 pixels) are displayed correctly only in 6x3 format.
+Q/S & O/P - make viewing window bigger/smaller
+-this enables you to see the graphic in correct format, for example sprites 6x3 characters/sprites (48x24 pixels) are displayed correctly only in 6x3 format.
 
 W/D - scroll sprite up/down one pixel line (depends on mode & width)
 
