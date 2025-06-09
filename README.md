@@ -24,6 +24,7 @@ R - display the X/Y width of viewing window
 1234 - viewing modes
 
 L - loads next tape data block
+CAPS + L - loads full memory
 K - saves the current wieving window
 
 Q/S & O/P - make viewing window bigger/smaller
@@ -31,7 +32,7 @@ Q/S & O/P - make viewing window bigger/smaller
 
 W/D - scroll sprite up/down one pixel line (depends on mode & width)
 
-Cursor keys - move viewing window's start
+Cursor keys - move viewing window's start in RAM
 E/F - -//-
 
 
@@ -43,5 +44,5 @@ Switch to mode 3, 32 wide, 3 high
 -Meggie_Man_ROM_font_whole.png
 
 ================================================
-originally programmed by Pego & FAY-FE on ZX Spectrum using Slavomit Labsky's MRS software in assembler.
+originally programmed by Pego & FAY-FE on ZX Spectrum using Slavomit Labsky's MRS software in assembler and with huge help from Denis regarding the misc formats (Line-to-Line, Chr$, ultimate)
 Contact: pegosys at gmail dot com
