@@ -48,5 +48,5 @@ Switch to mode 3, 32 wide, 3 high
 -Meggie_Man_ROM_font_whole.png
 
 ================================================
-originally programmed by Pego & FAY-FE on ZX Spectrum using Slavomir Labsky's (Busy) MRS software in assembler and with huge help from Denis regarding the misc formats (Line-to-Line, Chr$, ultimate)
+originally programmed by Pego & FAY-FE on ZX Spectrum using Slavomir Labsky's (Busy) MRS software in assembler and with huge help from Denis regarding the misc formats (Line-to-Line, Chr$, ultimate) which he used in Megatragac utility
 Contact: pegosys at gmail dot com
